@@ -1,0 +1,19 @@
+{
+    "name": "ubuntu/press",
+    "description": "An elegant markdown-powered blog for the Laravel framework.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ubuntu\\Press\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Greg Pena",
+            "email": "gregpena@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.6"
+    }
+}
