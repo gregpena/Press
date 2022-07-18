@@ -15,6 +15,6 @@ class SavePostTest extends TestCase
         $post = factory(Post::class)->create();
 
         $this->assertCount(1, Post::all());
-        dd(Post::all());
+        //dd(Post::all());
     }
 }
