@@ -26,5 +26,12 @@
     },
     "require": {
         "erusev/parsedown": "^1.7"
+    },
+    "extra": {
+        "Laravel": {
+            "providers": [
+                "Ubuntu\\Press\\PressBaseServiceProvider"
+            ]
+        }
     }
 }
