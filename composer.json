@@ -28,7 +28,7 @@
         "erusev/parsedown": "^1.7"
     },
     "extra": {
-        "Laravel": {
+        "laravel": {
             "providers": [
                 "Ubuntu\\Press\\PressBaseServiceProvider"
             ]
